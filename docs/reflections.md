@@ -16,3 +16,10 @@ This demonstrates the importance of process monitoring in detecting malicious ac
 
 ---
 
+## Phase 3 – Logging and Auditing
+
+Authentication and system logs were reviewed to observe security-relevant events.
+Restricted permissions protect log integrity and support incident investigation.
+
+---
+
