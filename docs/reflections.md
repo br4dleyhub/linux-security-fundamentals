@@ -23,3 +23,12 @@ Restricted permissions protect log integrity and support incident investigation.
 
 ---
 
+## Phase 4 – Basic System Hardening
+
+Unnecessary access was reduced by tightening file permissions.
+Running services were reviewed to understand attack surface.
+
+This phase demonstrates how simple configuration choices improve system security.
+
+---
+
