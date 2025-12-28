@@ -36,3 +36,11 @@ No real users, production systems, or external machines are involved.
 - Introduction to Cyber Security
 - Essentials of IT & Ethics
 - Data Communication and Net-Centric Computing
+
+---
+
+## Conclusion
+This project provided hands-on experience with Linux security fundamentals,
+including access control, process monitoring, logging, and basic hardening.
+
+It highlights how operating system security plays a critical role in cybersecurity.
